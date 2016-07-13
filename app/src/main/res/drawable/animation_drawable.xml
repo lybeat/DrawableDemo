@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:duration="700" android:drawable="@drawable/ic_lv0_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv1_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv2_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv3_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv4_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv5_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv6_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv7_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv8_large"/>
+    <item android:duration="700" android:drawable="@drawable/ic_lv9_large"/>
+
+</animation-list>

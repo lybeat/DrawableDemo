@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lybeat.drawabledemo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.lybeat.drawabledemo.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.lybeat.drawabledemo.LayerActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.TransitionActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.RippleActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.StateListActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.LevelActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.AnimationActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.ShapeActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.WrapperActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.VectorActivity"/>
+        <activity android:name="com.lybeat.drawabledemo.DrawerArrowActivity"/>
+
+    </application>
+
+</manifest>
